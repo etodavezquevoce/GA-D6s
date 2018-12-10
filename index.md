@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
+<html>
+	<head>
+		<script language='JavaScript1.2'>
+function disableselect(e){
+return false
+}
+function reEnable(){
+return true
+}
+//if IE4+
+document.onselectstart=new Function (&quot;return false&quot;)
+//if NS6
+if (window.sidebar){
+document.onmousedown=disableselect
+document.onclick=reEnable
+}
+</script>
+		<style type="text/css">
+			*{
+		-webkit-touch-callout: none;
+   -webkit-user-select: none;
+   -khtml-user-select: none;
+   -moz-user-select: none;
+   -ms-user-select: none;
+				user-select: none;}
+		
+		</style>
+<Title>DICAS PARA ULTRAPASSAR OS 13 PONTOS</Title>
+	<style type="text/css">
 
-You can use the [editor on GitHub](https://github.com/etodavezquevoce/GA-D6s/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+	*{text-transform:uppercase;font-family:Times,serif;font-size:47px;font-weight:normal}
+	.body{margin-top:37px;width:800px;border:1px solid black;background:#fff2cc}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  }
 
-### Markdown
+}
+  
+		</style>
+	</head>
+	
+		<body bgcolor="#222">
+		<center><div class="body">
+		<h1 style="text-align:center">Dicas Para<Br> ultrapassar os 13<br>pontos</h1>
+		<img class="image" style="width:100%;height:45%" src="https://statig1.akamaized.net/bancodeimagens/1z/jn/az/1zjnaz150qfr08e8x2gpt4su9.jpg"><br>	
+		<h2 style="font-family:'Impact',serif">DURANTE UMA CONVERSA DE BAR<br> UM SENHOR REVELOU UM SEGREDO<br> CHOCANTE PARA AUMENTAR<br> AS CHANCES DE <MARK><SPAN style="font-family:'Impact',serif">ACERTO</span></MARK> E<br><MARK><SPAN style="font-family:'Impact',serif"> DIMINUIR O CUSTO CONSIDERAVELMENTE</h2></mark>
+			</div>	<div class="body">
+		<br>
+		<h2 style="font-family:'Impact',serif;text-align:right;margin-right:20px">
+		Como o método funciona?
+		</h2>
+		<h3 style="font-size:37px;TEXT-TRANSFORM:NONE"> 	 Luis Carlos Flores, trabalhador assalariado,<br>
+ sempre sonhou viver apenas da “sorte”<BR> acertando os
+14 ou 15 pontos.</h3><h3 style="font-size:37px;TEXT-TRANSFORM:NONE"> Para isso ele sempre buscou métodos,   <BR>
+ comprou livros, cursos, planilhas e etc.</h3><h3 style="font-size:37px;TEXT-TRANSFORM:NONE"> Porém nunca teve êxito em nenhum <br>dos métodos que procurava...  </h3><h3 style="font-size:37px;TEXT-TRANSFORM:NONE">
+ Certa vez Luis estava fazendo uma “happy<br> hour” após
+ um dia cansativo de trabalho,<br> neste mesmo dia enquanto 
+ petiscava umas batatas fritas, um senhor se aproximou 
+dele e eles<br> começaram a conversar,  conversa vai<BR>	 conversa
+ vem, começaram a falar de ganhos, o<BR> senhor comentou que
+ estava apenas a uns dias na cidade, e que havia comprado      
+ um<BR>  apartamento ali perto pois era de Blumenau e<BR>  estava      
+apenas visitando a filha.  <BR> </div><div class="body"><h3 style="font-size:37px;TEXT-TRANSFORM:NONE"> Luis então comentou que queria       
+aproveitar mais a vida, e queria ter um conforto financeiro...</h3><h3 style="font-size:37px;TEXT-TRANSFORM:NONE">O senhor então afirmou que, <mark><span style="font-size:37px;TEXT-TRANSFORM:NONE;font-family:'Impact',serif">
+Todas as<br>Realizações dele,</span></mark> vinham <mark><span style="font-size:37px;TEXT-TRANSFORM:NONE;font-family:'Impact',serif">unicamente</span></mark> dos<br> <mark><span style="font-size:37px;TEXT-TRANSFORM:NONE;font-family:'Impact',serif"> inúmeros acertos dele com 14 pontos ou mais</mark><br>Luis ficou pasmo, pois viver apenas daquilo<br>era um sonho de muito tempo...</h3>
+ <h3 style="font-size:37px;TEXT-TRANSFORM:NONE">Clique no Vídeo Abaixo Onde o Próprio Luís Revela o Passo-a-Passo 
+<br>para ter os Mesmos Resultados do<br>Senhor!
+</h3>
+<center><a target="_blank" href="http://gtxflores.online/mobile-2/?utm_source=Facebook|PDF1Vid|button"><img class="image" style="width:97%;height:21%" src="http://brasilmanchete.com/imagens/botao.png?id=4"><a></center><br>				
+ <iframe style=" width: 90% !important; height: 41.8% !important;" src="https://www.youtube-nocookie.com/embed/QIE2Pr7G_mw?wmode=opaque&showinfo=0&autoplay=1&controls=0&modestbranding=1&rel=0&start=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br>		<br>
+<center><a target="_blank" href="http://mon.net.br/4dcnl?utm_src=Facebook|PDF1Vid|gifbutton"><img class="image" style="width:97%;height:23%" src="http://brasilmanchete.com/imagens/teste2.gif"><a></center><br>		
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/etodavezquevoce/GA-D6s/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+	
+		</div></center>
+		</body>
+</html>
